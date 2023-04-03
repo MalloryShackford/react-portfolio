@@ -80,6 +80,10 @@ const Projects = () => {
             BEAUTIFUL USER INTERFACES
           </div>
           
+          
+            <a href="https://lyriks-sigma.vercel.app/">
+            <img src="https://i.postimg.cc/PrfwJ9VJ/lyriks.png" /></a>
+
           <a href="https://client-psi-wheat.vercel.app/">
           <img src="https://i.ibb.co/9pH4Qw4/tinder.png" /></a>
           
@@ -95,11 +99,9 @@ const Projects = () => {
           <a href="https://rainbow-praline-272e56.netlify.app/">
             <img src="https://i.ibb.co/V9C4CJn/fb.png" /></a>
           
-          <a href="https://underr.vercel.app/">
+          <a href="https://malloryshackford.github.io/Underr/">
             <img src="https://i.ibb.co/FBt09C6/utr.png" /></a>
           
-          <a href="https://malloryshackford.github.io/Bhava/">
-            <img src="https://i.ibb.co/9nyJtkc/bhava.png" /></a>
           
           
 
