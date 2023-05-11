@@ -102,10 +102,7 @@ const Projects = () => {
           
           <a href="https://rainbow-praline-272e56.netlify.app/">
             <img src="https://i.ibb.co/V9C4CJn/fb.png" /></a>
-          
-          <a href="https://cheftimmaslow.com">
-            <img src="https://i.ibb.co/FBt09C6/utr.png" /></a>
-          
+
           
           
 
