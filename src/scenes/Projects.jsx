@@ -73,18 +73,7 @@ const Projects = () => {
           viewport={{ once: true, amount: 0.2 }}
         >
           {/* ROW 1 */}
-//           <div
-//             className="flex justify-center text-center items-center p-10 bg-red
-//               max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold"
-//           >
-//             BEAUTIFUL USER INTERFACES
-//           </div>
-          
-          
-//             <a href="https://lyriks-sigma.vercel.app/">
-//             <img src="https://i.postimg.cc/PrfwJ9VJ/lyriks.png" /></a>
 
-          
            <a href="https://cheftimmaslow.com">
             <img src="https://i.ibb.co/FBt09C6/utr.png" /></a>
             
@@ -104,14 +93,6 @@ const Projects = () => {
             <img src="https://i.ibb.co/V9C4CJn/fb.png" /></a>
 
           
-          
-
-//           <div
-//             className="flex justify-center text-center items-center p-10 bg-blue
-//               max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold"
-//           >
-//             SMOOTH USER EXPERIENCE
-//           </div>
         </motion.div>
       </div>
     </section>
